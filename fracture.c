@@ -3,7 +3,7 @@
 //  Author: Camila Viciedo
 //  Class: COP 3223, Professor Parra
 //  Purpose: This program is meant to implement 5 different functions while learning the benefits of fracturing.
-//  Input:
+//  
 // ****************************************************
 
 // Header files 
@@ -13,7 +13,8 @@
 #define PI 3.14159265358979323846
 
 // User input for coordinate x1 
-double getx1(){ 
+double getx1()
+{ 
   double x1; 
 
   printf("Enter the x-coordinate of point 1: ");
@@ -23,7 +24,8 @@ double getx1(){
 }
 
 // User input for coordinate y1 
-double gety1(){
+double gety1()
+{
   double y1;
 
   printf("Enter the y-coordinate of point 1: ");
@@ -33,7 +35,8 @@ double gety1(){
 }
 
 // User input for coordinate x2 
-double getx2(){ 
+double getx2()
+{ 
   double x2;
 
   printf("Enter the x-coordinate of point 2: ");
@@ -42,7 +45,8 @@ double getx2(){
 }
 
 // User input for coordinate y2 
-double gety2(){
+double gety2()
+{
   double y2;
 
   printf("Enter the y-coordinate of point 2: ");
